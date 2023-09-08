@@ -42,5 +42,7 @@ dev
 # docker-compose env files
 .env
 
+*.key
+*.key.pub
 
 docker-compose.yaml
